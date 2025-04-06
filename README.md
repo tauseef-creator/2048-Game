@@ -9,7 +9,7 @@ This is a terminal-based implementation of the classic 2048 game, written in C++
 - A C++ compiler (e.g., g++ for Linux or MinGW for Windows).
 - Terminal/console access.
 
-###Instructions
+### Instructions
 - Clone the repository:
 ```
 git clone https://github.com/[your-username]/2048-game.git
